@@ -1,0 +1,4 @@
+Today is Tuesday.
+Its a weekday.
+We are currently in Selenium Java Crash Course.
+This is 4th part of File Handling mechanism.
